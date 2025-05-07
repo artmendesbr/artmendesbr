@@ -12,7 +12,7 @@ FastAPI, Flask
 Pandas, Jupyter, Appsmith
 
 🚀 Projects
-Gym Tracker – An Appsmith-based web app to track gym activity; slowly gathering data for personal insights
+[Gym Tracker](https://github.com/artmendesbr/GymLog/blob/main/README.md) – An Appsmith-based web app to track gym activity; slowly gathering data for personal insights and data analysis.
 
 Sims 4 Database – An API for accessing traits, aspirations, items, plants, and more from The Sims 4 universe
 
