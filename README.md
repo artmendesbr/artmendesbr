@@ -15,7 +15,7 @@ Pandas, Jupyter, Appsmith
 
 [Gym Tracker](https://github.com/artmendesbr/GymLog/blob/main/README.md) – An Appsmith-based web app to track gym activity; slowly gathering data for personal insights and data analysis.
 
-Sims 4 Database – An API for accessing traits, aspirations, items, plants, and more from The Sims 4 universe
+[Sims 4 Database](https://github.com/artmendesbr/public-sims4-api/blob/main/README.md) – An API for accessing traits, aspirations, items, plants, and more from The Sims 4 universe
 
 Tarot – A tool built with Appsmith to record and review personal tarot readings, including card positions and meanings
 
