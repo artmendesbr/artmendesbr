@@ -17,7 +17,7 @@ Pandas, Jupyter, Appsmith
 
 [Sims 4 Database](https://github.com/artmendesbr/public-sims4-api/blob/main/README.md) – An API for accessing traits, aspirations, items, plants, and more from The Sims 4 universe
 
-Tarot – A tool built with Appsmith to record and review personal tarot readings, including card positions and meanings
+[Tarot](https://github.com/artmendesbr/TarotApp) – An Appsmith-based web app to record and review tarot readings, including card positions and meanings
 
 📫 Let’s connect
 Open to collaborations, feedback, or just a chat about tech.
